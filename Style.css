@@ -121,7 +121,9 @@ body{
 }
 
 footer{
+    grid-row: 6;
     grid-column: 1/12;
     align-self: center;
     justify-self: center;
+    color:Gray;
 }
